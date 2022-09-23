@@ -29,7 +29,8 @@ print("Characters=" ,cts)
 print("Digits=" ,dig)
 
 
-#Characters in Ascending orders1=input().lower()
+#Characters in Ascending order
+s1=input().lower()
 lst=list(s1)
 asc=[]
 final=[]
